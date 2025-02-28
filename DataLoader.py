@@ -1,7 +1,7 @@
 import os
 from PyPDF2 import PdfReader
 
-def load_ducs(path: str) -> list:
+def LoadDucs(path: str) -> list:
     ducs , filenames = [], []
 
     for duc_file in os.listdir(path):
