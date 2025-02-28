@@ -23,4 +23,4 @@ def RAG(query = "What is the role of attention mechanism in transformers?"):
     return answer["answer"]
 
 #Example Usage
-print(RAG())
+#print(RAG())
