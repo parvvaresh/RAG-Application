@@ -1,5 +1,3 @@
-(Due to technical issues, the search service is temporarily unavailable.)
-
 # RAG Application
 
 This repository contains a Retrieval-Augmented Generation (RAG) application, which combines the power of retrieval-based and generative models to provide accurate and contextually relevant responses. The application is designed to enhance question-answering systems by leveraging external knowledge sources and advanced natural language processing techniques.
